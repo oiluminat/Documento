@@ -6,42 +6,19 @@ antonioago2502@gmail.com
 
 
 OBJETIVO
-Descreva o que você quer, o que almeja como objetivo profissional. Aqui também é interessante adicionar o que já fez que é relacionado com este objetivo e quais são suas motivações em querer trabalhar com isso.
-
+Meu objetivo é ajudar a empresa a crescer mais e também crescer dentro da empresa, já fiz alguns cursos sobre esse assunto no Alura, lá eu fiz alguns projetos pequenos.
 
 FORMAÇÃO ACADÊMICA
-Nome do seu colégio/faculdade - ano letivo(se concluiu ou ainda está cursando)
+Escola Paulina Rosa PEI, Hortolândia, SP - Segunda série do ensino médio
 
 
-PROJETOS (será um bom diferencial, principalmente caso não tenha experiência profissional)
-Nome do projeto 1
-Descrição: escrever brevemente sobre o seu projeto, quais foram as tecnologias utilizadas, como foi feito, quais foram os desafios.
+PROJETOS 
+Ping Pong
+Descrição: foi um jogo pequeno de ping pong feito no site do jp5.
 
-Nome do projeto 2
-Descrição: escrever brevemente sobre o seu projeto, quais foram as tecnologias utilizadas, como foi feito, quais foram os desafios.
+Quando os humanos não estão olhando
+Descrição: Esse foi um projeto do Scatch que tem falas e atores funcionais.
 
-Você poderá adicionar seu portfólio nesta seção, por exemplo, seu perfil no GitHub. 
-
-TECNOLOGIAS (aqui você lista as tecnologias, ferramentas e linguagens que você conhece)
-Linguagem I
-Linguagem II
-Ferramenta I …
-
-
-EXPERIÊNCIA PROFISSIONAL
-Aqui você deverá descrever brevemente sobre suas experiências profissionais. Caso você não tenha nenhuma, poderá retirar esta seção.  No campo Atividades, prefira listar por tópicos. Organize suas experiências partindo do ano mais recente até o mais antigo. 
-Além disso, serve como exemplo de experiência profissional os locais em que você fez: estágio, freela, voluntariado ou trabalho formal.
-
-Nome do lugar que você teve sua experiência profissional (ano de início - ano fim)
-Cargo: caso tenha tido
-Atividades:
-Atividade 1: descrição resumida
-Atividade 2: descrição resumida
-Atividade 3: descrição resumida
 
 CURSOS | CERTIFICAÇÕES
-Nome do curso - Lugar onde fez - (ano de início - ano fim)
-
-IDIOMAS
-Liste aqui, informando o nível(iniciante, intermediário,avançado), quais idiomas você possui conhecimento.
-Idioma - lugar onde fez (ano de início - ano fim)
+Projeto Programação - feito no Alura (15/05/23 a 06/12/23)
